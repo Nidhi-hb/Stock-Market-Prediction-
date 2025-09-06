@@ -29,13 +29,13 @@ Volume has a negative correlation (~ -0.58) with prices
 RSI helps identify overbought (>70) and oversold (<30) conditions.
 Tesla frequently fluctuates between these levels
 Useful for timing buy/sell decisions
-<img src="s3.png" width="943" height="569">
+<img src="s3.png" width="443" height="269">
 
 4. Daily Returns Distribution
 Histogram with kernel density curve of daily returns.
 Distribution is roughly normal
 Most returns are close to 0%, with fat tails showing volatility
-<img src="s4.png" width="954" height="556">
+<img src="s4.png" width="454" height="256">
 
 Tech Stack
 
