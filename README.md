@@ -17,13 +17,13 @@ Features: Open, High, Low, Close, Volume
 Visualizations
 1. Stock Price Dataset Preview
 This shows the first few rows of Tesla stock data.
-<img src="s1.png" width="800" height="540">
+<img src="s1.png" width="400" height="300">
 
 2. Feature Correlation Heatmap
 Correlation between Open, Close, High, Low, and Volume.
 Prices are highly correlated (close to 1.0)
 Volume has a negative correlation (~ -0.58) with prices
-<img src="s2.png" width="813" height="563">
+<img src="s2.png" width="483" height="263">
 
 3. Relative Strength Index (RSI)
 RSI helps identify overbought (>70) and oversold (<30) conditions.
